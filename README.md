@@ -9,6 +9,24 @@ Este repositório é o canal de **distribuição** da aplicação: os instalador
 
 ---
 
+## ⚡ Por que ditado por voz?
+
+Pesquisas da **Universidade de Stanford** mostram que a velocidade média de fala é de cerca de **130 a 150 palavras por minuto**, enquanto a digitação atinge apenas **40 a 60 palavras por minuto** — ou seja, ditado é aproximadamente **3x mais rápido** que digitar ([fonte](https://www.productivitygladiator.com/blog/dictating-is-3x-faster-than-typing-start-talking)).
+
+Com o **Voice Code**, essa velocidade se traduz em produtividade real: você fala no seu ritmo natural e o texto aparece instantaneamente em qualquer aplicativo, sem perder tempo com digitação, correção de erros ou distrações.
+
+---
+
+## 🌐 Por que traduzir de Português para Inglês no modo Code?
+
+O modo **Code** traduz automaticamente sua fala do português para o inglês antes de digitar. Essa decisão tem uma base técnica sólida, com dois grandes benefícios:
+
+1. **Economia de tokens.** Modelos de linguagem (LLMs) e ferramentas de IA generativa funcionam de forma significativamente mais eficiente em inglês — o idioma principal de seus dados de treinamento. Código, comandos, prompts e documentação escritos em inglês consomem **menos tokens** e produzem respostas mais precisas, reduzindo custos e latência.
+
+2. **Melhor qualidade de código.** O código-fonte é escrito em inglês (identificadores, funções, bibliotecas, convenções). Traduzir sua fala diretamente para inglês evita a "tradução mental" na hora de programar e garante que nomes de variáveis, métodos e comandos sejam gerados de forma idiomática e consistente com o ecossistema — resultando em código mais limpo, legível e compatível com as ferramentas do mercado.
+
+---
+
 ## ✨ Funcionalidades
 
 - **Ditado com push-to-talk** — segure a tecla (ou alterne liga/desliga) para gravar; solte para transcrever e digitar automaticamente.
