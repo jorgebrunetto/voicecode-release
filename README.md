@@ -17,12 +17,12 @@ Pesquisas da **Universidade de Stanford** mostram que a velocidade média de fal
 
 Com o **Voice Code**, essa velocidade se traduz em produtividade real: você fala no seu ritmo natural e o texto aparece instantaneamente em qualquer aplicativo, sem perder tempo com digitação, correção de erros ou distrações.
 
-Fontes:
-[fonte](https://www.productivitygladiator.com/blog/dictating-is-3x-faster-than-typing-start-talking)
-[Average Email (434 Words)](https://blog.aweber.com/learn/average-email-length.htm#:~:text=The%20average%20email%20length,have%20434.48%20words%20on%20average.)
-[1 Page Single Spaced (500 Words)](https://wordcounter.net/words-per-page#:~:text=While%20a%20general%20guideline%20is,length%20to%20name%20a%20few.)
-[Average Blog Post (1142 Words)](https://torquemag.io/2018/04/optimal-content-length/#:~:text=The%20average%20blog%20post%20is,better%20ROI%20from%20longer%20content.)
-[2,475 words per workday](https://melmagazine.com/en-us/story/youre-wasting-years-of-your-life-not-knowing-how-to-type-correctly)
+## Fontes:
+- [Matéria](https://www.productivitygladiator.com/blog/dictating-is-3x-faster-than-typing-start-talking)
+- [Average Email (434 Words)](https://blog.aweber.com/learn/average-email-length.htm#:~:text=The%20average%20email%20length,have%20434.48%20words%20on%20average.)
+- [1 Page Single Spaced (500 Words)](https://wordcounter.net/words-per-page#:~:text=While%20a%20general%20guideline%20is,length%20to%20name%20a%20few.)
+- [Average Blog Post (1142 Words)](https://torquemag.io/2018/04/optimal-content-length/#:~:text=The%20average%20blog%20post%20is,better%20ROI%20from%20longer%20content.)
+- [2,475 words per workday](https://melmagazine.com/en-us/story/youre-wasting-years-of-your-life-not-knowing-how-to-type-correctly)
 ---
 
 ## 🌐 Por que traduzir de Português para Inglês no modo Code?
