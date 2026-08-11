@@ -13,8 +13,16 @@ Este repositório é o canal de **distribuição** da aplicação: os instalador
 
 Pesquisas da **Universidade de Stanford** mostram que a velocidade média de fala é de cerca de **130 a 150 palavras por minuto**, enquanto a digitação atinge apenas **40 a 60 palavras por minuto** — ou seja, ditado é aproximadamente **3x mais rápido** que digitar ([fonte](https://www.productivitygladiator.com/blog/dictating-is-3x-faster-than-typing-start-talking)).
 
+<img width="726" height="259" alt="image" src="https://github.com/user-attachments/assets/aefc6669-97f5-4c84-a0da-3f5cd763ef0e" />
+
 Com o **Voice Code**, essa velocidade se traduz em produtividade real: você fala no seu ritmo natural e o texto aparece instantaneamente em qualquer aplicativo, sem perder tempo com digitação, correção de erros ou distrações.
 
+Fontes:
+[fonte](https://www.productivitygladiator.com/blog/dictating-is-3x-faster-than-typing-start-talking)
+[Average Email (434 Words)](https://blog.aweber.com/learn/average-email-length.htm#:~:text=The%20average%20email%20length,have%20434.48%20words%20on%20average.)
+[1 Page Single Spaced (500 Words)](https://wordcounter.net/words-per-page#:~:text=While%20a%20general%20guideline%20is,length%20to%20name%20a%20few.)
+[Average Blog Post (1142 Words)](https://torquemag.io/2018/04/optimal-content-length/#:~:text=The%20average%20blog%20post%20is,better%20ROI%20from%20longer%20content.)
+[2,475 words per workday](https://melmagazine.com/en-us/story/youre-wasting-years-of-your-life-not-knowing-how-to-type-correctly)
 ---
 
 ## 🌐 Por que traduzir de Português para Inglês no modo Code?
