@@ -5,7 +5,7 @@
 Este repositório é o canal de **distribuição** da aplicação: os instaladores, pacotes e o manifest de atualização automática (`latest.json`) são publicados aqui via **GitHub Releases**.
 
 ---
-<img width="982" height="743" alt="image" src="https://github.com/user-attachments/assets/c9baf606-99ed-4577-98f2-896d2550a83d" />
+https://github.com/user-attachments/assets/05b12036-ca71-4bb6-869a-9e31b2dad547.mp4
 
 ---
 
